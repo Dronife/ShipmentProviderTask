@@ -3,8 +3,8 @@
 For easier use I created two separate shell executables
 1. Run first script so the image would be built. Run in terminal: ``./build.sh``
 2. Then access container’s bash: ``/run.sh`` immediately you will be redirected to container environment
-###Console command ``app:shipment``
-####Simple usage
+### Console command ``app:shipment``
+#### Simple usage
 1. Run the command e.g: ``php bin/console app:shipment dhl``
 2. Tests: ``bin/phpunit tests``
 
